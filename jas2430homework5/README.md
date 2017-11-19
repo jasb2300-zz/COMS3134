@@ -5,8 +5,7 @@ Professor Paul Blaer
 
 Homework 5 - README
 
-I do not claim authorship of Vertex.java, Edge.java, Display.java. This code was provided to us by the Teaching Assistants to narrow the
-scope of our assignment. 
+I do not claim authorship of Vertex.java, Edge.java, Display.java. This code was provided to us by the Teaching Assistants to narrow the scope of our assignment. 
 
 Please compile all .java files in the command line like the following:
 
